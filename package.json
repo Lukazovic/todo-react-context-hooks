@@ -1,5 +1,5 @@
 {
-  "name": "todo-react-context-hooks",
+  "name": "todo-react-reducer-context-hooks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
