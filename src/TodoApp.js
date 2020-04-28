@@ -23,7 +23,7 @@ export default function TodoApp() {
         <AppBar color="primary" position="static" style={{ height: "64px" }}>
           <Toolbar>
             <Typography color="inherit">
-              TODOS WITH CONTEXT AND HOOKS
+              TODOS WITH REDUCER + CONTEXT AND HOOKS
             </Typography>
           </Toolbar>
         </AppBar>
